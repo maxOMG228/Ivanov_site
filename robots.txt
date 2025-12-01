@@ -6,4 +6,4 @@ Disallow: /temp/
 
 Disallow: /private-scripts/
 # Вказуємо шлях до нашої карти сайту.
-Sitemap: https://Ivanov_site/sitemap.xml
+Sitemap: https://https://maxOMG228.github.io/Ivanov_site/sitemap.xml
